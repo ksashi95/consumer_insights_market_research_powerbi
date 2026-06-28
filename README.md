@@ -148,6 +148,6 @@ Through this project I gained experience in:
 
 ---
 
-## 📌 Disclaimer
+## 📌 Dataset Notice:
 
-This repository is intended for educational and portfolio purposes. The published version uses anonymized data while preserving the original analytical methodology and report structure.
+The original survey dataset is not included because it contains confidential/proprietary information. The report and documentation are provided to demonstrate the data model, analytical approach, and Power BI implementation.
