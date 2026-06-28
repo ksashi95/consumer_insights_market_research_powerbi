@@ -140,4 +140,4 @@ Through this project I gained experience in:
 
 ## 📌 Disclaimer
 
-This repository is intended for educational and portfolio purposes. The published version uses anonymized and/or synthetic data while preserving the original analytical methodology and report structure.
+This repository is intended for educational and portfolio purposes. The published version uses anonymized data while preserving the original analytical methodology and report structure.
