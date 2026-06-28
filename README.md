@@ -128,12 +128,12 @@ The report uses DAX to calculate:
 ---
 
 ## 🧮 Advanced DAX Techniques
-* Dynamic Overall calculations using AVERAGEX()
-* Context transition with CALCULATE()
-* Filter manipulation using REMOVEFILTERS()
-* Disconnected table implementation with TREATAS()
-* Context detection using SELECTEDVALUE()
-* Variable-based calculations using VAR and RETURN
+* Dynamic Overall calculations using `AVERAGEX()`
+* Context transition with `CALCULATE()`
+* Filter manipulation using `REMOVEFILTERS()`
+* Disconnected table implementation with `TREATAS()`
+* Context detection using `SELECTEDVALUE()`
+* Variable-based calculations using `VAR` and `RETURN`
 
 
 ## 💡 Key Learnings
