@@ -2,9 +2,9 @@
 
 ## 📌 Overview
 
-This project presents an end-to-end Market Research Analytics Report developed in Power BI. The report transforms raw consumer survey data into interactive insights through data modeling, Power Query transformations, and advanced DAX calculations.
+This project demonstrates the development of an end-to-end interactive Market Research Analytics Report in Power BI. The report was designed to transform raw consumer survey data into meaningful insights using data modeling, Power Query transformations, advanced DAX calculations, and interactive visualizations.
 
-The analysis focuses on brand performance, product usage, consumer perceptions, sensory evaluation, and price sensitivity across multiple respondent segments and locations.
+The analysis focuses on understanding consumer awareness, product usage, sensory perceptions, and pricing expectations across different respondent segments and locations. The report enables stakeholders to explore consumer behavior through an interactive reporting experience rather than static tables or spreadsheets.
 
 ---
 
@@ -54,17 +54,39 @@ The report follows a star-schema architecture with multiple fact and dimension t
 
 * Fact_Respondent
 * Fact_BrandFunnel
-* Fact_Sensory
+* Fact_Sensory_
 * Fact_Benefits
 * Fact_DishesUsage
 * Fact_Pricing
+* Fact_BrandSalience
+* Fact_DislikesAboutCannedOlives
+* Fact_PSM
+* Fact_PurchaseDrivers
+* Fact_SOA
+* Fact_TOP3PurchaseDrivers
+* Fact_Purchase_Platform
+
 
 ### Dimension Tables
 
 * Dim_Centre
-* Dim_Brand
+* Dim_Brands
 * Dim_Attribute
 * Dim_Legend
+* Dim_AgeRange
+* Dim_Benefits
+* Dim_Cuisine
+* Dim_DishUsage
+* Dim_ExperienceKey
+* Dim_Frequncy of Usage
+* Dim_Gender
+* Dim_Olives Usage Frequency
+* Dim_Price
+* Dim_Purchase_Platform
+* Dim_PurchaseDrivers
+* Dim_Role
+* Dim_Stage
+  
 
 ---
 
@@ -75,9 +97,8 @@ Key transformations performed:
 * Data cleaning
 * Standardizing data types
 * Unpivoting survey responses
-* Creating lookup tables
-* Merging queries
-* Creating analytical fact tables
+* Merging and Appending queries
+* Creating analytical fact and dimension tables
 
 ---
 
@@ -85,8 +106,8 @@ Key transformations performed:
 
 The report uses DAX to calculate:
 
-* Respondent Count
-* Response %
+* Dynamic respondent counts
+* Response percentages
 * Mean Score
 * Brand Funnel Metrics
 * Overall vs. City Comparison
@@ -96,6 +117,13 @@ The report uses DAX to calculate:
 ---
 
 ## 📸 Report Pages
+
+* Executive Summary
+* Brand Funnel Analysis
+* Usage & Benefits Analysis
+* Sensory Analysis
+* JAR Analysis
+* Price Sensitivity Analysis
 
 
 ## 💡 Key Learnings
