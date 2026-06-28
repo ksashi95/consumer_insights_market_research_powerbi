@@ -125,6 +125,16 @@ The report uses DAX to calculate:
 * JAR Analysis
 * Price Sensitivity Analysis
 
+---
+
+## 🧮 Advanced DAX Techniques
+* Dynamic Overall calculations using AVERAGEX()
+* Context transition with CALCULATE()
+* Filter manipulation using REMOVEFILTERS()
+* Disconnected table implementation with TREATAS()
+* Context detection using SELECTEDVALUE()
+* Variable-based calculations using VAR and RETURN
+
 
 ## 💡 Key Learnings
 
