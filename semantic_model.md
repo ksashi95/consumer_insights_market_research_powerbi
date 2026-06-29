@@ -1,5 +1,3 @@
-# Overview
-----
 
 ## Data Model
 
