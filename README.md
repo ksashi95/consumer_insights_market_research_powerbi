@@ -52,40 +52,40 @@ The report follows a star-schema architecture with multiple fact and dimension t
 
 ### Fact Tables
 
-* Fact_Respondent
-* Fact_BrandFunnel
-* Fact_Sensory_
-* Fact_Benefits
-* Fact_DishesUsage
-* Fact_Pricing
-* Fact_BrandSalience
-* Fact_DislikesAboutCannedOlives
-* Fact_PSM
-* Fact_PurchaseDrivers
-* Fact_SOA
-* Fact_TOP3PurchaseDrivers
-* Fact_Purchase_Platform
+* `Fact_Respondent`
+* `Fact_BrandFunnel`
+* `Fact_Sensory_`
+* `Fact_Benefits`
+* `Fact_DishesUsage`
+* `Fact_Pricing`
+* `Fact_BrandSalience`
+* `Fact_DislikesAboutCannedOlives`
+* `Fact_PSM`
+* `Fact_PurchaseDrivers`
+* `Fact_SOA`
+* `Fact_TOP3PurchaseDrivers`
+* `Fact_Purchase_Platform`
 
 
 ### Dimension Tables
 
-* Dim_Centre
-* Dim_Brands
-* Dim_Attribute
-* Dim_Legend
-* Dim_AgeRange
-* Dim_Benefits
-* Dim_Cuisine
-* Dim_DishUsage
-* Dim_ExperienceKey
-* Dim_Frequncy of Usage
-* Dim_Gender
-* Dim_Olives Usage Frequency
-* Dim_Price
-* Dim_Purchase_Platform
-* Dim_PurchaseDrivers
-* Dim_Role
-* Dim_Stage
+* `Dim_Centre`
+* `Dim_Brands`
+* `Dim_Attribute`
+* `Dim_Legend`
+* `Dim_AgeRange`
+* `Dim_Benefits`
+* `Dim_Cuisine`
+* `Dim_DishUsage`
+* `Dim_ExperienceKey`
+* `Dim_Frequncy of Usage`
+* `Dim_Gender`
+* `Dim_Olives Usage Frequency`
+* `Dim_Price`
+* `Dim_Purchase_Platform`
+* `Dim_PurchaseDrivers`
+* `Dim_Role`
+* `Dim_Stage`
   
 
 ---
